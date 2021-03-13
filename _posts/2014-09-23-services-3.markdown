@@ -1,0 +1,10 @@
+---
+layout: default
+img: tile2.png
+category: Services
+title: Walls and Floors
+description: |
+---
+Our extensive tiling experience allows us to predict and determine possible problem areas that may arise in the tiling process that an inexperienced tiler may not be able to detect.
+
+We strive to provide valuable ideas and solutions saving you time and money while increasing the quality of your job.

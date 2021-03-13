@@ -1,0 +1,8 @@
+---
+layout: default
+img: tile1.jpeg
+category: Services
+title: Bathrooms
+description: |
+---
+  Providing our clients with stylish new bathrooms and contemporary renovations that stand the test of time. Our reputation has been built on the foundations of delivering quality work on time and on budget.
