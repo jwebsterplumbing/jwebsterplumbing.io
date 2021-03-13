@@ -2,16 +2,16 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: https://tripetto.app/run/17KE6GE75J
-title: ALLCOASTAL TILING
-email: allcoastal-tiling@hotmail.com
+url: 
+title: J.WEBSTER PLUMBING
+email: jwebsterplumbing@outlook.com
 author: Your Name
 description: > # "Write an awesome description for your new site here.
   You can edit this line in _config.yml. It will appear in your document
   head meta (for Google search results) and in your feed.xml site
   description.
-copyright: 'Copyright &copy; 2021 ALLCOASTAL TILING. All Rights Reserved.'
-credits: 'ALLCOASTAL TILING'
+copyright: 'Copyright &copy; 2021 J.WEBSTER PLUMBING. All Rights Reserved.'
+credits: 'J.WEBSTER PLUMBING'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -27,6 +27,6 @@ permalink: pretty
 
 social:
   - title: facebook
-    url: https://www.facebook.com/allcoastaltiling
+    url: https://www.facebook.com/jwebsterplumbing
   - title: instagram
-    url: https://www.instagram.com/allcoastaltiling
+    url: https://www.instagram.com/jwebsterplumbing
