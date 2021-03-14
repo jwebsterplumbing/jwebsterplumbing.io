@@ -6,6 +6,5 @@ title: Electric Hot Water System Installation & Repair
 description: |
 ---
 <p align="left">
-Specialist in instantaneous hot water systems and hot water storage systems.
+<iframe frameborder="0" class="juxtapose" width="100%" height="800" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=c33f9616-8461-11eb-83c8-ebb5d6f907df"><ALIGN=LEFT></iframe>" alt="Specialist in instantaneous hot water systems and hot water storage systems.">
 </p>
-<iframe frameborder="0" class="juxtapose" width="100%" height="800" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=c33f9616-8461-11eb-83c8-ebb5d6f907df"><ALIGN=LEFT></iframe>
