@@ -1,11 +1,11 @@
 ---
 layout: default
-img: contact3.png
+img: contact2.png
 category: Contact
 title: Contact Us
 description: |
 header:
-  overlay_image: images/contact3.png
+  overlay_image: images/contact2.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   actions:
 
