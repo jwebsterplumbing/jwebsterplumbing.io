@@ -10,8 +10,8 @@ header:
   actions:
 
 ---
-**Email** me at:
+**Email** at:
 > <jwebsterplumbing@outlook.com>
 
-**Phone** or **text** me at:
+**Phone** or **text** at:
 > [0423 208 682](tel:0423208682)
