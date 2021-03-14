@@ -5,6 +5,4 @@ category: Services
 title: Solar Hot Water Systems
 description: |
 ---
-Our extensive tiling experience allows us to predict and determine possible problem areas that may arise in the tiling process that an inexperienced tiler may not be able to detect.
-
-We strive to provide valuable ideas and solutions saving you time and money while increasing the quality of your job.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum ut tristique et egestas quis. Magna etiam tempor orci eu lobortis.
