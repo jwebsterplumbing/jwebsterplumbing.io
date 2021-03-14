@@ -1,17 +1,10 @@
 ---
 layout: default
-img: contact2.png
-category: Contact
-title: Contact Us
+img: tile2.png
+category: Services
+title: Heat Pump Systems
 description: |
-header:
-  overlay_image: images/contact2.png
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  actions:
-
 ---
-**Email** us at:
-> <allcoastal-tiling@hotmail.com>
+Our extensive tiling experience allows us to predict and determine possible problem areas that may arise in the tiling process that an inexperienced tiler may not be able to detect.
 
-**Phone** or **text** us at:
-> [0401 769 656](tel:04017696506)
+We strive to provide valuable ideas and solutions saving you time and money while increasing the quality of your job.
