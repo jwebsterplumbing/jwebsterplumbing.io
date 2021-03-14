@@ -2,7 +2,7 @@
 layout: default
 img: contact2.png
 category: Contact
-title: Contact Us
+title: Contact Me
 description: |
 header:
   overlay_image: images/contact2.png
@@ -10,8 +10,8 @@ header:
   actions:
 
 ---
-**Email** us at:
+**Email** me at:
 > <jwebsterplumbing@outlook.com>
 
-**Phone** or **text** us at:
+**Phone** or **text** me at:
 > [0423 208 682](tel:0423208682)
