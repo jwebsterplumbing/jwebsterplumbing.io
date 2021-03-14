@@ -2,7 +2,7 @@
 layout: default
 img: contact2.png
 category: Contact
-title: Contact Me
+title: Contact
 description: |
 header:
   overlay_image: images/contact2.png
