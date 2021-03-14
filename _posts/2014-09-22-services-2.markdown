@@ -1,6 +1,6 @@
 ---
 layout: default
-img: tile3.png
+img: hot1.jpg
 category: Services
 title: Gas Hot Water Systems
 description: |
