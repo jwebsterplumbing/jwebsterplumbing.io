@@ -6,8 +6,6 @@ title: Electric Hot Water System Installation & Repair
 description: |
 ---
 <p align="left">
-<p> J. WEBSTER PLUMBING is specialises in all aspects of electric hot water systems.</p>
-
-Thanks to  strong relationships with all major brand names, J. WEBSTER PLUMBING offers efficient and reliable hot water system maintenance with direct access to essential parts thanks to  strong relationships with all major brand names.</p>
+<p> Thanks to strong relationships with all major brand names, J. WEBSTER PLUMBING offers efficient and reliable hot water system maintenance with direct access to essential parts thanks to strong relationships with all major brand names.</p>
 <br/><br/>
 <iframe frameborder="0" class="juxtapose" width="100%" height="800" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=c33f9616-8461-11eb-83c8-ebb5d6f907df"></iframe>
