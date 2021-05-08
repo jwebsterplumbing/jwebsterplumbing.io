@@ -5,4 +5,6 @@ category: Services
 title: Gas Hot Water Systems
 description: |
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla pellentesque dignissim enim sit amet venenatis urna. Vitae congue eu consequat ac felis donec et. Ac ut consequat semper viverra nam libero justo laoreet sit.
+<p> J. WEBSTER PLUMBING provides extensive service and repair for all forms of gas hot water equipment, including gas water heaters.</p>
+
+Repairs, services, and conversions on a variety of well-known and leading brands of gas hot water heaters are all part of hot water servicing provided by J. WEBSTER PLUMBING.
